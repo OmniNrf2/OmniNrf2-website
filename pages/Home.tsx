@@ -74,7 +74,7 @@ const Home: React.FC = () => {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-slate-800">Nrf2 通路激活</h3>
               <p className="text-slate-600 leading-relaxed">
-                重启体内抗氧化总开关，清除自由基，从细胞层面修复损伤，延缓衰老。
+                重启体内抗氧化总开关，清除自由基，从细胞层面修复炎症，延缓衰老。
               </p>
             </div>
 
@@ -84,7 +84,7 @@ const Home: React.FC = () => {
               </div>
               <h3 className="text-xl font-semibold mb-3 text-slate-800">特殊植物配方</h3>
               <p className="text-slate-600 leading-relaxed">
-                甄选独特药食同源植物，通过多级复合发酵富集天然小分子，安全高效。
+                甄选独特药食同源植物，通过多级复合发酵富集300多种天然小分子营养物质，安全高效。
               </p>
             </div>
           </div>
